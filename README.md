@@ -13,4 +13,4 @@ and feature scaling (normalizing numerical features). In addition, I also addres
 and imbalanced data issue via ADASYN oversampling. I experimented with SVM, Logistic Regression, and Random Forest machine learning models
 to predict customer churn status (1: churned, 0: non-churned). SVM achieved 80.03% accurcay and 91.26% true negative rate on test set.
 
-The Python Notebook is provided in 'Telco_Customer_Churn.ipynb'. 
+The Python Notebook is provided in `Telco_Customer_Churn.ipynb`. 
