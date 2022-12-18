@@ -5,7 +5,7 @@ algorithms.
 
 The dataset contains information about 7043 customers from a fictional telecommunication
 (telco) company in Q3 in California. 
-The data is provided by IBM Cognos Analytics 
+The data is provided by IBM Cognos Analytics \
 (dataset on Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customerchurn).
 
 I have conducted Exploratory Data Analysis with visualization plots, data cleaning, categorical variable one-hot-encoding, 
